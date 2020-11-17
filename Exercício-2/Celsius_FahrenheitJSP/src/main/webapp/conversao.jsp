@@ -11,7 +11,6 @@
 </head>
 
 <body>
-    Bem-vindo
     <table style="width:50%; border: 1px solid black; border-collapse: collapse;\">
         <tr>
             <th style = "border:1px solid black;border-collapse: collapse;\"> Celsius </th>
